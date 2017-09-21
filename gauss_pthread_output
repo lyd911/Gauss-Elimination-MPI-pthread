@@ -1,0 +1,20 @@
+
+Elapsed time = 65.53 ms.  number of threads is 8, matrix size= 200, random seed is 100
+
+Elapsed time = 143.551 ms.  number of threads is 8, matrix size= 400, random seed is 100
+
+Elapsed time = 259.437 ms.  number of threads is 8, matrix size= 600, random seed is 100
+
+Elapsed time = 430.982 ms.  number of threads is 8, matrix size= 800, random seed is 100
+
+Elapsed time = 694.595 ms.  number of threads is 8, matrix size= 1000, random seed is 100
+
+Elapsed time = 809.883 ms.  number of threads is 8, matrix size= 1200, random seed is 100
+
+Elapsed time = 1166.17 ms.  number of threads is 8, matrix size= 1400, random seed is 100
+
+Elapsed time = 1370.49 ms.  number of threads is 8, matrix size= 1600, random seed is 100
+
+Elapsed time = 1607.63 ms.  number of threads is 8, matrix size= 1800, random seed is 100
+
+Elapsed time = 1833.53 ms.  number of threads is 8, matrix size= 2000, random seed is 100

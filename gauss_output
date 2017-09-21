@@ -1,0 +1,20 @@
+
+Elapsed time = 3.256 ms. matrix size= 200, random seed is 100
+
+Elapsed time = 23.097 ms. matrix size= 400, random seed is 100
+
+Elapsed time = 73.987 ms. matrix size= 600, random seed is 100
+
+Elapsed time = 181.688 ms. matrix size= 800, random seed is 100
+
+Elapsed time = 361.889 ms. matrix size= 1000, random seed is 100
+
+Elapsed time = 612.3 ms. matrix size= 1200, random seed is 100
+
+Elapsed time = 939.016 ms. matrix size= 1400, random seed is 100
+
+Elapsed time = 1532.38 ms. matrix size= 1600, random seed is 100
+
+Elapsed time = 2227.27 ms. matrix size= 1800, random seed is 100
+
+Elapsed time = 3111.52 ms. matrix size= 2000, random seed is 100

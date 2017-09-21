@@ -1,0 +1,20 @@
+
+Elapsed time = 17.588 ms.  number of processes is 8, matrix size= 200, random seed is 100
+
+Elapsed time = 40.264 ms.  number of processes is 8, matrix size= 400, random seed is 100
+
+Elapsed time = 80.381 ms.  number of processes is 8, matrix size= 600, random seed is 100
+
+Elapsed time = 145.155 ms.  number of processes is 8, matrix size= 800, random seed is 100
+
+Elapsed time = 224.936 ms.  number of processes is 8, matrix size= 1000, random seed is 100
+
+Elapsed time = 388.989 ms.  number of processes is 8, matrix size= 1200, random seed is 100
+
+Elapsed time = 507.878 ms.  number of processes is 8, matrix size= 1400, random seed is 100
+
+Elapsed time = 699.784 ms.  number of processes is 8, matrix size= 1600, random seed is 100
+
+Elapsed time = 932.309 ms.  number of processes is 8, matrix size= 1800, random seed is 100
+
+Elapsed time = 1238.09 ms.  number of processes is 8, matrix size= 2000, random seed is 100
